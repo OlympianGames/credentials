@@ -1,0 +1,7 @@
+Minimum Height - Inches + Height
+4
+9
+
+Maximum Height - Inches + Height
+7
+12
